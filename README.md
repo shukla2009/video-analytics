@@ -40,7 +40,7 @@ Using Generator
         
 **client**
     
-    Run /home/synerzip/code-base/wootag/video-analytics/client/src/main/scala/com/assign/client/Main.scala
+    Run /video-analytics/client/src/main/scala/com/assign/client/Main.scala
     
 Using Client
     
